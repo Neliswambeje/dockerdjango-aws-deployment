@@ -1,0 +1,7 @@
+django
+pillow
+gunicorn
+python-decouple
+psycopg2-binary
+
+#password for superuser neliswa is password
